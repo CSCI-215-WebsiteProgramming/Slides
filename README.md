@@ -9,3 +9,4 @@ Slides from lecture
 * [Data types and Variables](https://docs.google.com/presentation/d/1LMwc4wJWQqWxYAQKVZTcBu88XeGW5GTPOLDxnD_JTvo/edit?usp=sharing)
 * [Lab 03 Review and Using Variables](https://docs.google.com/presentation/d/1RWU93VDXUhmzMHbz0l5qpVfEadhqKRyTJFRbyzf3pmg/edit?usp=sharing)
 * [Arrays and if statements](https://docs.google.com/presentation/d/1ShD3IDHEnnYar_pix5Xf17-T760IwaX4Vs75MqqHwUE/edit?usp=sharing)
+* [Conditionals](https://docs.google.com/presentation/d/1gtXf7_uuXRVbrZrnbc2HWERhq-YId3NVV1iGgOv_3oE/edit?usp=sharing)
