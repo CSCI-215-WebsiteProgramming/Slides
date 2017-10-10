@@ -11,3 +11,4 @@ Slides from lecture
 * [Arrays and if statements](https://docs.google.com/presentation/d/1ShD3IDHEnnYar_pix5Xf17-T760IwaX4Vs75MqqHwUE/edit?usp=sharing)
 * [Conditionals](https://docs.google.com/presentation/d/1gtXf7_uuXRVbrZrnbc2HWERhq-YId3NVV1iGgOv_3oE/edit?usp=sharing)
 * [Loops](https://docs.google.com/presentation/d/15m9dSBRPeRtSbp1fCE3XvMKprT8yDVSGpcc_9rnebLA/edit?usp=sharing)
+* [DOM](https://docs.google.com/presentation/d/1I8CBIBhad0kdd8C3t9bda_L__Im5gFygpwsCAKDczck/edit?usp=sharing)
