@@ -12,3 +12,4 @@ Slides from lecture
 * [Conditionals](https://docs.google.com/presentation/d/1gtXf7_uuXRVbrZrnbc2HWERhq-YId3NVV1iGgOv_3oE/edit?usp=sharing)
 * [Loops](https://docs.google.com/presentation/d/15m9dSBRPeRtSbp1fCE3XvMKprT8yDVSGpcc_9rnebLA/edit?usp=sharing)
 * [DOM](https://docs.google.com/presentation/d/1I8CBIBhad0kdd8C3t9bda_L__Im5gFygpwsCAKDczck/edit?usp=sharing)
+* [Manipulating the DOM](https://docs.google.com/presentation/d/1idqy2Jy34bRPz7plrZ4yr_ZFtj6U00mvo8KT6qbKFQM/edit?usp=sharing)
