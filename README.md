@@ -13,3 +13,4 @@ Slides from lecture
 * [Loops](https://docs.google.com/presentation/d/15m9dSBRPeRtSbp1fCE3XvMKprT8yDVSGpcc_9rnebLA/edit?usp=sharing)
 * [DOM](https://docs.google.com/presentation/d/1I8CBIBhad0kdd8C3t9bda_L__Im5gFygpwsCAKDczck/edit?usp=sharing)
 * [Manipulating the DOM](https://docs.google.com/presentation/d/1idqy2Jy34bRPz7plrZ4yr_ZFtj6U00mvo8KT6qbKFQM/edit?usp=sharing)
+* [Event-Driven Programming](https://docs.google.com/presentation/d/1pbdCy7XzqaGJRA0Kwrd7jF_Kim42pv8IYlFN2tFKI3o/edit?usp=sharing)
