@@ -16,3 +16,4 @@ Slides from lecture
 * [Event-Driven Programming](https://docs.google.com/presentation/d/1pbdCy7XzqaGJRA0Kwrd7jF_Kim42pv8IYlFN2tFKI3o/edit?usp=sharing)
 * [Event Object](https://docs.google.com/presentation/d/1sBQFhB_Ki9hrzPdYlL4f4Wj_b1bPffnq7xBBxaXyPJI/edit?usp=sharing)
 * [Event Object in Practice](https://docs.google.com/presentation/d/1dNyX9008vZ-NECqxcWDJ9qMTsLpFfPBSrU-ZQr0H3TM/edit?usp=sharing)
+* [Animation](https://docs.google.com/presentation/d/1svR3LSC65a6osh2GS8x4tjz8t8Dgii-F2yXQCJVg5k8/edit?usp=sharing)
